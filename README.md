@@ -65,6 +65,16 @@ Stores quiz questions, options, and correct answers in a structured format.
 * Randomization
 * Problem Solving
 
+## Skills Used
+
+- Python
+- Modules
+- Lists
+- Dictionaries
+- Random Library
+- Input Validation
+- Problem Solving
+
 ---
 
 ## How to Run
